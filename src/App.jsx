@@ -40,6 +40,7 @@ function App() {
           <span className="flex justify-center items-center h-[60px] w-[60px] rounded-full bg-[#FF9500] cursor-pointer" onClick={() => calculate()}>=</span>
         </div>
       </form>
+      <h1>AdritoRafsan</h1>
     </>
   )
 }
